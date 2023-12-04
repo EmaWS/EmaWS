@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EmaWS
-- 👀 I’m interested in videogames!
-- 🌱 I’m currently learning game design.
+# Hi !
+My name is Emanuele Londero , I'm a **Game Designer** !
+I'm actually studing game design in Milan.
 
 
 
